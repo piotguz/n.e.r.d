@@ -37,3 +37,9 @@ Reference
 - 22. Final Design Position — `vab/spec/22-final-design-position.md`
 
 MIGRATION NOTE: Per-file content will be expanded from the compiled spec over time.
+
+## Concept Art
+- Editor view: `concept_art/concept-art-VAB-editor.png`
+- Blueprint overlay: `concept_art/concept-art-VAB-blueprint.png`
+- Splash: `concept_art/splash_screen.png`
+- Operations/control room: `concept_art/concept-art-02.png`

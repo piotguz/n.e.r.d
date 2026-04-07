@@ -10,3 +10,8 @@
 - High-Level Scope — `vab/spec/03-scope.md`
 
 MIGRATION NOTE: Content preserved in `vab/spec/00-full-compiled.md`. This file will be expanded to include full text.
+
+## Concept Art
+Mood and tone for the project splash:
+
+![Splash Screen Concept](../../concept_art/splash_screen.png)

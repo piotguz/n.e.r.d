@@ -11,3 +11,8 @@
 - Acceptance — `vab/spec/20-acceptance-criteria.md`
 
 MIGRATION NOTE: Content preserved in `vab/spec/00-full-compiled.md`. This file will be expanded to include full text.
+
+## Concept Art
+Operations/control-room vibe that can inform the separate flight module UI (out of scope for VAB v1 but relevant to contract-first split):
+
+![Operations Room Concept](../../concept_art/concept-art-02.png)

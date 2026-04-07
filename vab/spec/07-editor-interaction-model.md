@@ -11,3 +11,8 @@
 - Validation — `vab/spec/14-validation-rules.md`
 
 MIGRATION NOTE: Content preserved in `vab/spec/00-full-compiled.md`. This file will be expanded to include full text.
+
+## Concept Art
+Editor palette, ghost preview cage, and gizmo bar inspiration:
+
+![VAB Editor Concept](../../concept_art/concept-art-VAB-editor.png)

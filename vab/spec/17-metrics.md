@@ -10,3 +10,8 @@
 - Acceptance — `vab/spec/20-acceptance-criteria.md`
 
 MIGRATION NOTE: Content preserved in `vab/spec/00-full-compiled.md`. This file will be expanded to include full text.
+
+## Concept Art
+Blueprint-style overlay view showing lines and markers (for inspiration only — final v1 overlays are simplified CoM/CoT/thrust vector):
+
+![Blueprint View Concept](../../concept_art/concept-art-VAB-blueprint.png)
